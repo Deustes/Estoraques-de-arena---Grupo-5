@@ -1,4 +1,5 @@
-# Estoraques de Arena Subgrupo-5
+# Estoraques de Arena
+
 ## Autores:
 Nicolás Ariza - 2190732
 Tihamer Torres - 2200015
