@@ -2,23 +2,23 @@
 
 ### Escuela de Física, Facultad de Ciencias, Universidad Industrial de Santander
 
-### Autores:
+### Autores
 + Nicolás Ariza - 2190732
 + Tihamer Torres - 2200015
 + Willmar López - 2162468
 + Daniel Morales - 2200812
 
-### Docente:
+### Docente
 Luis A. Núñez
 
-### Asignatura:
+### Asignatura
 Retos Científicos
 
-### Reto Número:
+### Reto Número
 19
 
-### Semestre:
+### Semestre
 2023-2
 
 ## Descripción
-
+En este repositorio se irá actualizando toda la información acerca de la resolución de este reto, tal como papers de trabajos anteriores que sean parecidos, códigos de simulación en *Python*, 
