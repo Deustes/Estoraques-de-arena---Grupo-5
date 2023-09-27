@@ -23,7 +23,7 @@ Retos Científicos
 ## Descripción
 En este repositorio se irá proporcionando toda la información acerca de la resolución de este reto.
 
-El reto elegido fue el número 19: estoraques de arena. Dicho experimento consiste en tomar un plato grande (de unos 30 cm de diámetro) y llenarlo de agua hasta una profundidad de unos 2 cm. A continuación, se debe añadir arena seca al dejarla caer desde unos 40 cm. Al cabo de un tiempo, una estalagmita de arena se eleva desde el plato. ¿Cuál es la altura máxima que se puede alcanzar con este método de construcción? ¿Cuáles son los parámetros más relevantes que controlan esa altura máxima?
+El reto elegido fue el número 19: estoraques de arena. Este reto fue extraído de uno de los problemas del *International Physics Tournament* (IPT) de años anteriores. Dicho experimento consiste en tomar un plato grande (de unos 30 cm de diámetro) y llenarlo de agua hasta una profundidad de unos 2 cm. A continuación, se debe añadir arena seca al dejarla caer desde unos 40 cm. Al cabo de un tiempo, una estalagmita de arena se eleva desde el plato. ¿Cuál es la altura máxima que se puede alcanzar con este método de construcción? ¿Cuáles son los parámetros más relevantes que controlan esa altura máxima?
 
 + En el archivo Experimento.md se podrá hallar el enlace al documento en *Latex* de la propuesta de investigación, así como el enlace a las diapositivas en donde dicha propuesta estará presentada de una manera mucho más agradable
 + El archivo Código_Estoraques_de_Arena.ipynb contendrá el código de simulación computacional del problema
