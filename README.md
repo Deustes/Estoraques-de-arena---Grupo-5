@@ -32,4 +32,4 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 tihamer2200015@correo.uis.edu.co
 
 ## Referencias
-[Vídeo de ejemplo de una estalagmita de arena](https://youtu.be/shu2RfdqXN0?feature=shared)
++ [Vídeo de ejemplo de una estalagmita de arena](https://youtu.be/shu2RfdqXN0?feature=shared)
