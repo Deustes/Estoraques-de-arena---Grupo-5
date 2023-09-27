@@ -33,7 +33,8 @@ El reto elegido fue el número 19: estoraques de arena. Este reto fue extraído 
 Para resolver este problema, se va a recurrir a realizar un montaje experimental con los materiales necesarios. Se va a usar *Python* para construir una simulación el problema, y *Latex* y *Google Presentaciones* para realizar los trabajos escritos y diapositivas.
 
 ## Contacto
-tihamer2200015@correo.uis.edu.co
++ tihamer2200015@correo.uis.edu.co
++ willmar2162468@correo.uis.edu.co
 
 ## Referencias
 + [Vídeo de ejemplo de una estalagmita de arena](https://youtu.be/shu2RfdqXN0?feature=shared)
