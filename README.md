@@ -37,6 +37,10 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 + willmar2162468@correo.uis.edu.co
 
 ## Referencias
+
+### Sobre trabajos previos
+
+### Sobre simulaciones
 + [The sand stalagmite](https://youtu.be/shu2RfdqXN0?feature=shared)
 + [Water in a falling sand simulation](https://stackoverflow.com/questions/66522958/water-in-a-falling-sand-simulation)
 + [Falling sand simulation](https://www.youtube.com/watch?v=h3MgTin77wY)
