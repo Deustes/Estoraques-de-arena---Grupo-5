@@ -39,7 +39,8 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 ## Referencias
 
 ### Sobre trabajos previos
-
++ [Sand stalagmites](https://www.jstor.org/stable/30062596)
++ [The mysteries of towers of sand](https://www.reflexions.uliege.be/cms/c_344169/en/the-mysteries-of-towers-of-sand)
 ### Sobre simulaciones
 + [The sand stalagmite](https://youtu.be/shu2RfdqXN0?feature=shared)
 + [Water in a falling sand simulation](https://stackoverflow.com/questions/66522958/water-in-a-falling-sand-simulation)
