@@ -37,4 +37,4 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 + willmar2162468@correo.uis.edu.co
 
 ## Referencias
-+ [Vídeo de ejemplo de una estalagmita de arena](https://youtu.be/shu2RfdqXN0?feature=shared)
++ [The sand stalagmite](https://youtu.be/shu2RfdqXN0?feature=shared)
