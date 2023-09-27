@@ -27,7 +27,7 @@ El reto elegido fue el número 19: estoraques de arena. Este reto fue extraído 
 
 + En el archivo Experimento.md se podrá hallar el enlace al documento en *Latex* de la propuesta de investigación, así como el enlace a las diapositivas en donde dicha propuesta estará presentada de una manera mucho más agradable
 + El archivo Código_Estoraques_de_Arena.ipynb contendrá el código de simulación computacional del problema, desarrollado en *Google Colab*
-+ Al final de este README.md se encuentra el apartado Referencias, en que se podrán hallar enlaces a distintos trabajos previos que sean parecidos a lo que se hará en este proyecto
++ Al final de este README.md se encuentra el apartado Referencias, en que se podrán hallar enlaces a distintos trabajos previos que sean parecidos a lo que se hará en este proyecto, así como guías para el código de la simulación
 
 ## Resolución
 Para resolver este problema, se va a recurrir a realizar un montaje experimental con los materiales necesarios. Se va a usar *Python* para construir una simulación el problema, y *Latex* y *Google Presentaciones* para realizar los trabajos escritos y diapositivas.
@@ -38,3 +38,4 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 
 ## Referencias
 + [The sand stalagmite](https://youtu.be/shu2RfdqXN0?feature=shared)
++ [Water in a falling sand simulation](https://stackoverflow.com/questions/66522958/water-in-a-falling-sand-simulation)
