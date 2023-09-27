@@ -32,4 +32,4 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 tihamer2200015@correo.uis.edu.co
 
 ## Referencias
-
++ [Vídeo de ejemplo del experimento](https://youtu.be/shu2RfdqXN0?feature=shared)
