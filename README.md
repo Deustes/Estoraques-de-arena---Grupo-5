@@ -26,4 +26,7 @@ En este repositorio se irá actualizando toda la información acerca de la resol
 El reto elegido fue el número 19: estoraques de arena. Dicho experimento consiste en tomar un plato grande (de unos 30 cm de diámetro) y llenarlo de agua hasta una profundidad de unos 2 cm. A continuación, se debe añadir arena seca al dejarla caer desde unos 40 cm. Al cabo de un tiempo, una estalagmita de arena se eleva desde el plato. ¿Cuál es la altura máxima que se puede alcanzar con este método de construcción? ¿Cuáles son los parámetros más relevantes que controlan esa altura máxima?
 
 ## Resolución
-Para resolver este problema, se va a recurrir a realizar un montaje experimental con los materiales necesarios. Se va a usar *Python* para construir una simulación el problema, y *Latex* y *Google Presentaciones* para realizar los trabajos escritos y diapositivas. 
+Para resolver este problema, se va a recurrir a realizar un montaje experimental con los materiales necesarios. Se va a usar *Python* para construir una simulación el problema, y *Latex* y *Google Presentaciones* para realizar los trabajos escritos y diapositivas.
+
+## Contacto
+tihamer2200015@correo.uis.edu.co
