@@ -1,3 +1,3 @@
-## Propuesta de investiación
+## Propuesta de investigación
 
 ## Presentación de diapositivas
