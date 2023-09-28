@@ -35,6 +35,7 @@ Para resolver este problema, se va a recurrir a realizar un montaje experimental
 ## Contacto
 + tihamer2200015@correo.uis.edu.co
 + willmar2162468@correo.uis.edu.co
++ nicolas2190732@correo.uis.edu.co
 
 ## Referencias
 
